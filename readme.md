@@ -2,8 +2,8 @@
 
 #### 新建工程
 
-![](.\src\res\project.jpg)
-![](.\src\res\maven.jpg)
+![](./src/res/project.jpg)
+![](./src/res/maven.jpg)
 
 
 #### 工程
@@ -65,9 +65,9 @@ public class App {
 
 
 #### 导出
-![](.\src\res\export1.jpg)
-![](.\src\res\export2.jpg)
-![](.\src\res\export3.jpg)
+![](./src/res/export1.jpg)
+![](./src/res/export2.jpg)
+![](./src/res/export3.jpg)
 
 #### 使用
 
