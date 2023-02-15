@@ -1,0 +1,51 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="swagger-diff-demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/swagger_diff_demo_jar</output-path>
+    <root id="archive" name="swagger-diff-demo.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="swagger-diff-demo" />
+      <element id="extracted-dir" path="D:/.m2/repository/io/swagger/swagger-annotations/1.5.15/swagger-annotations-1.5.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/joda-time/joda-time/2.9.7/joda-time-2.9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/io/swagger/swagger-core/1.5.15/swagger-core-1.5.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.8.7/jackson-dataformat-yaml-2.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/io/swagger/swagger-compat-spec-parser/1.0.31/swagger-compat-spec-parser-1.0.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/ch/qos/cal10n/cal10n-api/0.7.4/cal10n-api-0.7.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/org/slf4j/slf4j-ext/1.6.3/slf4j-ext-1.6.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/github/fge/btf/1.2/btf-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/google/code/findbugs/jsr305/3.0.1/jsr305-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/io/swagger/swagger-parser/1.0.31/swagger-parser-1.0.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/github/fge/jackson-coreutils/1.6/jackson-coreutils-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/io/swagger/swagger-models/1.5.15/swagger-models-1.5.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/github/fge/json-patch/1.6/json-patch-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/org/slf4j/slf4j-simple/1.7.30/slf4j-simple-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/github/fge/msg-simple/1.1/msg-simple-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.8/json-schema-validator-2.2.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.0.0/libphonenumber-8.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.8/json-schema-core-1.2.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/google/guava/guava/20.0/guava-20.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/alibaba/fastjson/1.2.31/fastjson-1.2.31.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/deepoove/swagger-diff/1.2.2/swagger-diff-1.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/org/mozilla/rhino/1.7R4/rhino-1.7R4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/javax/mail/mailapi/1.4.3/mailapi-1.4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/github/fge/uri-template/0.9/uri-template-0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/j2html/j2html/1.2.0/j2html-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.7/jackson-annotations-2.8.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
